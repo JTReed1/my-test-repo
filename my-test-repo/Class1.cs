@@ -17,4 +17,10 @@ namespace my_test_repo
         // Hold this place for something magicial to happen.
         // Here's more to test the pushing to the branch on the server
     }
+
+    class Class3
+    {
+        // Hold this place for something magicial to happen.
+        // Here's more to test the pushing to the branch on the server
+    }
 }
