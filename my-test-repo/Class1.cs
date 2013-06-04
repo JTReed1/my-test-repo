@@ -8,5 +8,6 @@ namespace my_test_repo
 {
     class Class1
     {
+        // Hold this place for something magicial to happen.
     }
 }
